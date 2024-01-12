@@ -1,6 +1,6 @@
 # Project Management Portfolio: Sustainable Coral 
 ![Image Alt Text](IMG_0061.jpg)
-# SustainableCoral Project Management Portfolio
+# Sustainable Coral Project Management Portfolio
 
 🌊 Welcome to the Sustainable Coral repository, showcasing my project management expertise in overseeing the importation of natural coral from the Solomon Islands. 🐚 This portfolio encapsulates the meticulous planning, execution, and success of the Coral case with a focus on sustainability.
 
