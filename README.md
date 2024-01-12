@@ -1,13 +1,13 @@
-# Project Management Portfolio: Sustainable Coral 
+# Project Management Portfolio | Cultivating Sustainability: Natural Coral Supply Chain Development
 ![Image Alt Text](IMG_0061.jpg)
-# Sustainable Coral Project Management Portfolio
+# Konstantin Kazmierski | Project Manager
 
-🌊 Welcome to the Sustainable Coral repository, showcasing my project management expertise in overseeing the importation of natural coral from the Solomon Islands. 🐚 This portfolio encapsulates the meticulous planning, execution, and success of the Coral case with a focus on sustainability.
+🌊 Welcome to the Sustainable Coral Project repository, showcasing my project management expertise in overseeing the importation of natural coral from the Solomon Islands. 🐚 This portfolio encapsulates the meticulous planning, execution, and success of the Coral case with a focus on sustainability.
 ### [Check out this gorgeous Poca Coral](https://github.com/AlexanderKonstantin/SustainableCoral/blob/910b8c78341bff99153f465fc5c6595d8a5a180c/MAR%20ORGANICA%20LUXE%20MEGA%20POCA.png)
 
 ## Documents
 
-### [Project Charter](link_to_project_charter.md)
+### [Project Charter](https://github.com/AlexanderKonstantin/SustainableCoral/blob/7917385aa44782a50ded41b6381c5c859dbd62b9/PROJECT%20MNANAGEMENT%20PORTFOLIO/Project%20Charter_%20Mar%20Organica's%20Project%20-%20Importing%20Natural%20Coral%20from%20the%20Solomon%20Islands.pdf)
 The fundamental aspects of the project, including objectives, scope, deliverables, milestones, and the team's roles.
 
 ### [Communication Plan](link_to_communication_plan.md)
