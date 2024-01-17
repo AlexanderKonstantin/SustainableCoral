@@ -16,10 +16,10 @@ Key Research
 ### [Project Plan](https://github.com/AlexanderKonstantin/SustainableCoral/blob/faf7c8379f6508786354e0cd3c3b49fb4ab03e94/FINAL%20GITHUB%20Project%20Plan_%20Importing%20Natural%20Coral%20from%20the%20Solomon%20Islands.pdf)
 The Plan
 
-### [Communication Plan](link_to_communication_plan.md)
+### [Communication Plan](https://github.com/AlexanderKonstantin/SustainableCoral/blob/75a1ce9940de8e4a4a1724141084cce3136373d2/PMGITHUB%20FINAL%20Expert%20Communication%20Plan_%20Mar%20Organica's%20Coral%20Importation%20Project.pdf)
 Details on effective and transparent communication with stakeholders, government bodies, environmental organizations, and suppliers.
 
-### [Risk Management Plan](link_to_risk_management_plan.md)
+### [Risk Management Plan](https://github.com/AlexanderKonstantin/SustainableCoral/blob/75a1ce9940de8e4a4a1724141084cce3136373d2/PMGITHUBFINALRisk%20Management%20Plan_%20Mar%20Organica's%20Coral%20Importation%20Project.pdf)
 Identification of potential risks, assessment of their impact, and proactive measures to mitigate adverse effects.
 
 # Execution 👩‍💻
@@ -38,13 +38,13 @@ Identification of potential risks, assessment of their impact, and proactive mea
 
 
 # Closing 📈💰💼
-### [Project Retrospective](link_to_project_retrospective.md)
+### [Project Retrospective](https://github.com/AlexanderKonstantin/SustainableCoral/blob/75a1ce9940de8e4a4a1724141084cce3136373d2/PMGITHUB%20FINAL%20Project%20Retrospective%20Document_%20Mar%20Organica's%20Coral%20Importation%20Project.pdf)
 Insights gained from the project's lifecycle, highlighting successes, lessons learned, and areas for improvement.
 
 ### [Scope Verification Document](https://github.com/AlexanderKonstantin/SustainableCoral/blob/d7b76b2d709d0bd1c86f83515e35b27318dee148/CLOSING_%20Scope%20Verification%20Executive%20Document.pdf)
 Outlines an advanced approach to verify and validate the project scope.
 
-### [Closing Summary](link_to_closing_summary.md)
+### [Closing Summary](https://github.com/AlexanderKonstantin/SustainableCoral/blob/75a1ce9940de8e4a4a1724141084cce3136373d2/PMGITHUBFINAL%20Closing%20Summary%20Document_%20Mar%20Organica's%20Coral%20Importation%20Project.pdf)
 
 
 ## Project Management PMBOK Subcategorization | Documents
