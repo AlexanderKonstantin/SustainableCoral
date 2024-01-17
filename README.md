@@ -3,6 +3,9 @@
 # Konstantin Kazmierski | Project Manager
 
 🌊 Welcome to the Sustainable Coral Project repository, showcasing my project management expertise in overseeing the importation of natural coral from the Solomon Islands. 🐚 This portfolio encapsulates the meticulous planning, execution, and success of the Coral case with a focus on sustainability.
+In Act I. the structure of the project will be dissected in detail.
+In Act II. the projects documents will be subcategorized into the various Project Management Body of Knowledge classifications, showing expertise in all areas.
+Please click on each blue hyperlink to be taken to each specific document for this Project.
 
 ## Project Structure | Documents
 # Initiation  📝
