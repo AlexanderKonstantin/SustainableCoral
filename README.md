@@ -23,15 +23,29 @@ Details on effective and transparent communication with stakeholders, government
 Identification of potential risks, assessment of their impact, and proactive measures to mitigate adverse effects.
 
 # Execution 👩‍💻
-### [Project Plan](https://github.com/AlexanderKonstantin/SustainableCoral/blob/7917385aa44782a50ded41b6381c5c859dbd62b9/PROJECT%20MNANAGEMENT%20PORTFOLIO/Project%20Charter_%20Mar%20Organica's%20Project%20-%20Importing%20Natural%20Coral%20from%20the%20Solomon%20Islands.pdf)
+### [Project Plan Execution Document](https://github.com/AlexanderKonstantin/SustainableCoral/blob/d7b76b2d709d0bd1c86f83515e35b27318dee148/Execution-%20Project%20Plan%20Execution%20Document.pdf)
+
+### [Risk Response Document](https://github.com/AlexanderKonstantin/SustainableCoral/blob/d7b76b2d709d0bd1c86f83515e35b27318dee148/CONTROL_%20EXECUTION_%20Risk%20Response%20Planning%20Document.pdf)
 
 # Monitoring and Controlling 📊💼👨‍💼
+### [Project Metrics- Predictive Document](https://github.com/AlexanderKonstantin/SustainableCoral/blob/d7b76b2d709d0bd1c86f83515e35b27318dee148/Control_%20Project%20Metrics%20-%20Predictive%20Document.pdf)
+
+### [Project Metrics- Retrospective Document](https://github.com/AlexanderKonstantin/SustainableCoral/blob/d7b76b2d709d0bd1c86f83515e35b27318dee148/CONTROL-Project%20Metrics%20-%20Retrospective%20Document.pdf)
+
+### [Project Metrics- Diagnostics Document](https://github.com/AlexanderKonstantin/SustainableCoral/blob/d7b76b2d709d0bd1c86f83515e35b27318dee148/Control-Project%20Metrics%20-%20Diagnostics%20Document.pdf)
+
+### [Scope Change Control Executive Document](https://github.com/AlexanderKonstantin/SustainableCoral/blob/d7b76b2d709d0bd1c86f83515e35b27318dee148/CONTROL_%20Scope%20Change%20Control%20Executive%20Document.pdf)
+
 
 # Closing 📈💰💼
 ### [Project Retrospective](link_to_project_retrospective.md)
 Insights gained from the project's lifecycle, highlighting successes, lessons learned, and areas for improvement.
 
+### [Scope Verification Document](https://github.com/AlexanderKonstantin/SustainableCoral/blob/d7b76b2d709d0bd1c86f83515e35b27318dee148/CLOSING_%20Scope%20Verification%20Executive%20Document.pdf)
+Outlines an advanced approach to verify and validate the project scope.
+
 ### [Closing Summary](link_to_closing_summary.md)
+
 
 ## Project Management PMBOK Subcategorization | Documents
 
