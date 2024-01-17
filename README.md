@@ -10,7 +10,7 @@ In Act 2️⃣ the projects documents will be subcategorized into the various Pr
 
 Please click on each blue hyperlink to be taken to each specific document for this Project.
 
-## Project Structure | Documents
+## 1️⃣ Project Structure | Documents
 # Initiation  📝
 ### [Project Charter](https://github.com/AlexanderKonstantin/SustainableCoral/blob/7917385aa44782a50ded41b6381c5c859dbd62b9/PROJECT%20MNANAGEMENT%20PORTFOLIO/Project%20Charter_%20Mar%20Organica's%20Project%20-%20Importing%20Natural%20Coral%20from%20the%20Solomon%20Islands.pdf)
 The fundamental aspects of the project, including objectives, scope, deliverables, milestones, and the team's roles.
@@ -53,7 +53,7 @@ Outlines an advanced approach to verify and validate the project scope.
 ### [Closing Summary](https://github.com/AlexanderKonstantin/SustainableCoral/blob/75a1ce9940de8e4a4a1724141084cce3136373d2/PMGITHUBFINAL%20Closing%20Summary%20Document_%20Mar%20Organica's%20Coral%20Importation%20Project.pdf)
 
 
-## Project Management PMBOK Subcategorization | Documents
+## 2️⃣ Project Management PMBOK Subcategorization | Documents
 
 # Integration Management
 ### [Project Scope Statement](https://github.com/AlexanderKonstantin/SustainableCoral/blob/faf7c8379f6508786354e0cd3c3b49fb4ab03e94/FINAL%20FOR%20GITHUB%20Project%20Scope%20Statement_%20Importing%20Natural%20Coral%20from%20the%20Solomon%20Islands.pdf)
